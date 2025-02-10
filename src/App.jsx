@@ -1,8 +1,18 @@
+import Navbar from '@/components/Navbar'
+import Hero from '@/components/Hero'
+import HomeCards from '@/components/HomeCards'
+import JobList from '@/components/JobList'
+import ViewAllJobs from '@/components/ViewAllJobs'
+
 const App = () => {
   return (
-    <div>
-      <h1 className="text-3xl font-bold text-red-700 underline ">Hello world!</h1>
-    </div>
+    <>
+      <Navbar />
+      <Hero />
+      <HomeCards />
+      <JobList />
+      <ViewAllJobs />
+    </>
   )
 }
 
