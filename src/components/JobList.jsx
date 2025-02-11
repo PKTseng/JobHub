@@ -2,7 +2,6 @@ import jobs from '@/jobs.json'
 import JobItem from './JobItem'
 
 const JobList = () => {
-  console.log(jobs)
   const recentJobs = jobs.slice(0, 3)
 
   return (
