@@ -8,7 +8,7 @@ const JobList = ({ isHome = false }) => {
 
   useEffect(() => {
     const fetchJobs = async () => {
-      const apiUrl = isHome ? '/api?_limit=3' : '/api'
+      const apiUrl = isHome ? '/api/jobs?_limit=3' : '/api/jobs'
 
       try {
         const response = await fetch(apiUrl)
