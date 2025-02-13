@@ -2,10 +2,10 @@
   "jobs": [
     {
       "id": "1",
-      "title": "Senior React Developer",
-      "type": "Full-Time",
-      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "title": "Senior React Dev",
+      "type": "Part-Time",
       "location": "Boston, MA",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
       "salary": "$70K - $80K",
       "company": {
         "name": "NewTek Solutions",
@@ -222,6 +222,20 @@
         "description": "Dev Community Inc builds and nurtures developer communities worldwide.",
         "contactEmail": "jobs@devcommunity.com",
         "contactPhone": "555-555-5565"
+      }
+    },
+    {
+      "id": "de70",
+      "title": "test123345",
+      "type": "Part-Time",
+      "location": "test",
+      "description": "",
+      "salary": "Under $50K",
+      "company": {
+        "name": "",
+        "description": "",
+        "contactEmail": "test123@test.com",
+        "contactPhone": "5555-5555-5555"
       }
     }
   ]
